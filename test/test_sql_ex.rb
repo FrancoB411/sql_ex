@@ -2,6 +2,9 @@ $LOAD_PATH.unshift(File.dirname(__FILE__))
 require 'helper'
 require 'sqlite3'
 
+# These tests are placeholders, just goofing around with Test::Unit.
+# They ARE NOT to be used as any guide to the functionality of the exercise.
+# Well, you COULD try, but why?  Wouldn't you rather be out in the sun or playing with a dog?
 class TestSqlEx < Test::Unit::TestCase
 
   def setup
